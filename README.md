@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaziRamisaRifa
-- 👀 I’m interested in Computer Vision Virtual Try on
-- 🌱 I’m currently learning Deep learning in CV 
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Deep learning in AI & ML
 - 💞️ I’m looking to collaborate
 - 📫 reach me at mailto:kazi.rifa@northsouth.edu
 

@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/RamisaRifa077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaziramisarifa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramisarifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramisarifa" height="30" width="40" /></a>
-<a href="https://fb.com/ramisarifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramisarifa" height="30" width="40" /></a>
+<a href="https://fb.com/ramisa.rifa01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramisarifa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ramisarifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramisarifa" height="30" width="40" /></a>
 </p>
 

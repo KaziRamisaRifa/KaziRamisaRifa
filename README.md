@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kazi Ramisa Rifa</h1>
+<h1 align="center">Hi 👋, I'm Ramisa</h1>
 <h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My research interest lies in the fascinating realm of Generative AI and 2D/3D Virtual Try-On</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziramisarifa&label=Profile%20views&color=0e75b6&style=flat" alt="kaziramisarifa" /> </p>

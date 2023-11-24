@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziramisarifa&label=Profile%20views&color=0e75b6&style=flat" alt="kaziramisarifa" /> </p>
 
-- 🔭 I’m currently working on **Generative AI-based Computer Vision Project that exhibits deep understanding of Image-based virtual-try on**
+- 🔭 I’m currently working on **CGAN-based project that exhibits a deep understanding of 2D image-based virtual-try on**
 
 - 👯 I’m looking to collaborate on **with the Computer Vision researchers & engineers.**
 

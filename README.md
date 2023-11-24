@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kazi Ramisa Rifa</h1>
-<h3 align="center">I’m interested in Deep learning (Computer Vision).🌱 My research interest lies in the fascinating realm of Generative AI focusing on 2D/3D Virtual Try-On
-
-  
-  with a descriptive focus on 2D/3D Virtual-Try-on </h3>
+<h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My research interest lies in the fascinating realm of Generative AI and 2D/3D Virtual Try-On</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziramisarifa&label=Profile%20views&color=0e75b6&style=flat" alt="kaziramisarifa" /> </p>
 
-- 🔭 I’m currently working on **Generative AI-based Computer Vision Project**
+- 🔭 I’m currently working on **Generative AI-based Computer Vision Project that exhibits deep understanding of Image-based virtual-try on**
 
-- 👯 I’m looking to collaborate on **with the CV researchers & engineers.**
+- 👯 I’m looking to collaborate on **with the Computer Vision researchers & engineers.**
 
-- 📫 How to reach me **reach me at kazi.rifa@northsouth.edu**
+- 📫 How to reach me **reach me? kazi.rifa@northsouth.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramisa</h1>
-<h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My research interest lies in the fascinating realm of Generative AI and 2D/3D Virtual Try-On</h3>
+<h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My research interest lies in the fascinating realm of Generative AI and Medical Imagingn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziramisarifa&label=Profile%20views&color=0e75b6&style=flat" alt="kaziramisarifa" /> </p>
 
-- Hi, I am a Ph.D. Student at the CS department, University of Kentucky.
+- Hi, I am a CS Ph.D. Student at the University of Kentucky.
 
-- 🔭 I’m currently working on **CGAN-based project that exhibits a deep understanding of 2D image-based virtual-try on**
+- 🔭 I’m currently working on **CT image synthesis using diffusion models to enhance the quality and diversity of synthetic medical imaging data.**
 
-- 👯 I’m looking to collaborate on **with the Computer Vision researchers & engineers.**
+- 👯 I’m looking to collaborate on **with the Computer Vision Researchers.**
 
 - 📫 How to reach me **reach me? ramisa.rifa@uky.edu**
 - 🌱 Website https://kaziramisarifa.github.io/

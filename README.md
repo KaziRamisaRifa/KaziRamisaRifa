@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramisa</h1>
-<h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My work explores the dynamic intersection of Generative AI and Medical Imaging, where I aim to leverage cutting-edge technologies to make healthcare solutions accessible and acceptable to medical and healthcare professionals. </h3>
+<h3 align="Left">I’m interested in Deep learning (Computer Vision).🌱 My work explores the dynamic intersection of Generative AI and Medical Imaging</h3>
+
+
+My research interest lies in the fascinating realm of Generative AI and Medical Imaging
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziramisarifa&label=Profile%20views&color=0e75b6&style=flat" alt="kaziramisarifa" /> </p>
 
